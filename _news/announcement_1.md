@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-22 15:59:00-0400
+date: 2022-09-20 
 inline: true
 related_posts: false
 ---
 
-We are presenting our work about sleep arousal detection using surrogate biological signals in the poster session of the summer school [AI4Health](https://prairie-institute.fr/evenement/summer-school-ai4health/) , Paris, France.
+I am presenting my work about crosslearning on heteregeneous seasonal time series in the research session of the annual Orange DataCamp event, Lannion, France.
