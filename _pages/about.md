@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: sb_profile_pic.jpg
+  image: photo_sboudabous.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 3.17, <a href='https://goo.gl/maps/6SWB2uz9bt8kYVA66'>PariSanté CampusE</a> </p>
