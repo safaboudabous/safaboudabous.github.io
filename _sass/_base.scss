@@ -217,6 +217,14 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+@media (min-width: 576px) {
+  .profile img {
+      width: 220px;
+      height: 260px;
+      margin-top: -2rem;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
