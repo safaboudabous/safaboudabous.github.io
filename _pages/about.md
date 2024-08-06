@@ -9,7 +9,7 @@ profile:
   image: photo_sboudabous.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 3.17, <a href='https://goo.gl/maps/6SWB2uz9bt8kYVA66'>PariSanté CampusE</a> </p>
+    <p>Office 3.17, <a href='https://goo.gl/maps/6SWB2uz9bt8kYVA66'>PariSanté Campus</a> </p>
     <p>2 - 10 Rue d'Oradour-sur-Glane</p>
     <p>75015 Paris, France</p>
 
