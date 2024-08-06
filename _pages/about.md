@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher int the Research Centre in Mathematics of Decision (<a href='https://www.ceremade.dauphine.fr'>CEREMADE</a>) at Paris-Dauphine University - PSL, France. I work with professor <a href='https://dauphine.psl.eu/en/research/resume-database/bacry-emmanuel'> Emmanuel BACRY</a> on deep learning for respiratory sleep disorder diagnosis, collaborating with the data science team of the ambitous startup <a href='https://www.ceremade.dauphine.fr'>Apneal</a> foccussing on smartphone-based sleep apnea diagnosis.
+I am currently a postdoctoral researcher in the Research Centre in Mathematics of Decision (<a href='https://www.ceremade.dauphine.fr'>CEREMADE</a>) at Paris-Dauphine University - PSL, France. I work with professor <a href='https://dauphine.psl.eu/en/research/resume-database/bacry-emmanuel'> Emmanuel BACRY</a> on deep learning for respiratory sleep disorder diagnosis, collaborating with the data science team of the ambitious startup <a href='https://www.ceremade.dauphine.fr'>Apneal</a>, foccussing on smartphone-based sleep apnea diagnosis.
 
 My research interests include time series analysis, signal processing, and deep learning for sequential and temporal data. I am interested in healthcare applications, specifically disease diagnosis and screening.
