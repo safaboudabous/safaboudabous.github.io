@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+We are presenting our work on sleep arousal detection using surrogate biological signals in the poster session of the summer school [AI4Health](https://prairie-institute.fr/evenement/summer-school-ai4health/) , Paris, France.
