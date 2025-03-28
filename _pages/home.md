@@ -6,12 +6,12 @@ subtitle:
 
 profile:
   align: right
-  image: photo_sboudabous.jpg
+  image: photo_sboudabous_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 3.17, <a href='https://goo.gl/maps/6SWB2uz9bt8kYVA66'>PariSanté Campus</a> </p>
-    <p>2 - 10 Rue d'Oradour-sur-Glane</p>
-    <p>75015 Paris, France</p>
+    <p>Office P362A (Floor 3), <a href='https://maps.app.goo.gl/VatLTVETZ6mdRSTR6'>Paris-Cité University</a> </p>
+    <p>45 Rue des Saints-Pères</p>
+    <p>75006 Paris, France</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
