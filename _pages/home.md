@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher in the Research Centre in Mathematics of Decision (<a href='https://www.ceremade.dauphine.fr'>CEREMADE</a>) at Paris-Dauphine University - PSL, France. I work with professor <a href='https://dauphine.psl.eu/en/research/resume-database/bacry-emmanuel'> Emmanuel BACRY</a> on deep learning for respiratory sleep disorder diagnosis, collaborating with the data science team of the ambitious French startup <a href='http://apneal.ai/'>Apneal</a>, foccussing on smartphone-based sleep apnea diagnosis.
+I am currently a CNRS postdoctoral researcher in the Nanomedicine, Extracellular Biology, Integratome, and Health Innovations Lab ([NABI](https://nabi.u-paris-sciences.fr)) at Paris-Cité University. I work with Dr. [Florence Gazeau](https://www.linkedin.com/in/florence-gazeau-294ab8146) and Dr. [Kelly Aubertin](https://www.linkedin.com/in/kelly-aubertin-phd-6042839a) on developing multimodal machine-learning models for characterizing and controlling the production of extracellular vesicles (EVs) and identifying new EV-based diagnostic biomarkers and therapy vectors.
 
 My research interests include time series analysis, signal processing, and deep learning for sequential and temporal data. I am interested in healthcare applications, specifically disease diagnosis and screening.
