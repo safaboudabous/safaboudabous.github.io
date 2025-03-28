@@ -9,7 +9,8 @@ profile:
   image: photo_sboudabous_2_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office P362A (Floor 3), <a href='https://maps.app.goo.gl/VatLTVETZ6mdRSTR6'>Paris-Cité University</a> </p>
+    <p>Office P362A (Floor 3)</p>
+    <p><a href='https://maps.app.goo.gl/VatLTVETZ6mdRSTR6'>Paris-Cité University</a> </p>
     <p>45 Rue des Saints-Pères</p>
     <p>75006 Paris, France</p>
 
