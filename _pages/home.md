@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo_sboudabous_2.jpg
+  image: photo_sboudabous_2_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office P362A (Floor 3), <a href='https://maps.app.goo.gl/VatLTVETZ6mdRSTR6'>Paris-Cité University</a> </p>
