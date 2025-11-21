@@ -15,4 +15,4 @@ I received my PhD in Machine Learning in 2021 from [Telecom Paris](https://www.
 
 Before this, I obtained a master's in data science at [Paris-Saclay University](https://www.universite-paris-saclay.fr) in 2017. In 2015, I graduated from the Tunisian [National Institute of Applied Sciences and Technology](https://insat.rnu.tn) with a major in software engineering and Big Data management.
 
-You can find more about my background on my [LinkedIn](https://www.linkedin.com/in/safa-boudabous/) or in [my resume](https://safaboudabous.github.io/assets/pdf/cv_sboudabous_en_1-3.pdf).
+You can find more about my background on my [LinkedIn](https://www.linkedin.com/in/safa-boudabous/) or in [my resume](https://safaboudabous.github.io/assets/pdf/cv_sboudabous_2025_en-2.pdf).
