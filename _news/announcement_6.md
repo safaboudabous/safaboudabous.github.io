@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work about Wake/Sleep Classification via a label-efficient contrastive learning approach in the poster session of the summer school [AI4Health](https://prairie-institute.fr/agenda/summer-school-ai4health-3/) , Paris, France.
+I presented my work about Wake/Sleep Classification via a label-efficient contrastive learning approach in the poster session of the summer school [AI4Health](https://www.prairie-psai.fr/agenda/summer-school-ai4health-3/) , Paris, France.

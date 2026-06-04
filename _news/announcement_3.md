@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work about sleep arousal detection using surrogate biological signals in the poster session of the summer school [AI4Health](https://prairie-institute.fr/evenement/summer-school-ai4health/) , Paris, France.
+I presented my work about sleep arousal detection using surrogate biological signals in the poster session of the summer school [AI4Health](https://www.prairie-psai.fr/agenda/summer-school-ai4health/) , Paris, France.
